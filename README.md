@@ -1,6 +1,8 @@
 # express-jwt
 
-[![Build](https://travis-ci.org/auth0/express-jwt.png)](http://travis-ci.org/auth0/express-jwt)
+[![Build Status](https://travis-ci.org/leonardodino/express-jwt.svg?branch=master)](https://travis-ci.org/leonardodino/express-jwt)
+[![Code Climate](https://codeclimate.com/github/leonardodino/express-jwt/badges/gpa.svg)](https://codeclimate.com/github/leonardodino/express-jwt)
+[![Test Coverage](https://codeclimate.com/github/leonardodino/express-jwt/badges/coverage.svg)](https://codeclimate.com/github/leonardodino/express-jwt/coverage)
 
 Middleware that validates JsonWebTokens and sets `req.user`.
 

@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/leonardodino/express-jwt.svg?branch=master)](https://travis-ci.org/leonardodino/express-jwt)
 [![Code Climate](https://codeclimate.com/github/leonardodino/express-jwt/badges/gpa.svg)](https://codeclimate.com/github/leonardodino/express-jwt)
 [![Test Coverage](https://codeclimate.com/github/leonardodino/express-jwt/badges/coverage.svg)](https://codeclimate.com/github/leonardodino/express-jwt/coverage)
+[![Known Vulnerabilities](https://snyk.io/test/github/leonardodino/express-jwt/badge.svg)](https://snyk.io/test/github/leonardodino/express-jwt)
 
 Middleware that validates JsonWebTokens and sets `req.user`.
 

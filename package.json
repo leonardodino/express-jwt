@@ -31,7 +31,7 @@
   "dependencies": {
     "async": "^2.1.5",
     "express-unless": "^0.3.0",
-    "jsonwebtoken": "^8.0.0",
+    "jsonwebtoken": "^8.1.0",
     "lodash.set": "^4.3.2"
   },
   "devDependencies": {
